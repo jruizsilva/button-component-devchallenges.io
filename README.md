@@ -33,7 +33,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/jruizsilva/button-component-devchallenges.io
 
 # Run the app
 $ npm start

@@ -123,7 +123,7 @@ const Main = () => {
             className='Main__Row'
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat( 3 ,minmax(230px, 320px))',
+              gridTemplateColumns: 'repeat( 3 ,minmax(230px, 230px))',
               justifyContent: 'flex-start',
               alignItems: 'center',
               marginBottom: '45px',
@@ -196,6 +196,7 @@ const Main = () => {
           <a
             href='https://material.io/resources/icons/?style=round'
             target='_blank'
+            rel='noopener noreferrer'
             style={{
               color: '#828282',
               marginBottom: '10px',

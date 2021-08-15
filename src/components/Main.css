@@ -1,0 +1,14 @@
+.Main {
+  height: 100vh;
+  flex-grow: 1;
+  font-family: var(--poppinsFont);
+}
+.Main__Wrapper {
+  padding-left: 64px;
+  padding-top: 40px;
+}
+.Main__Title {
+  color: #4f4f4f;
+  margin: 0;
+  font-weight: 500;
+}
